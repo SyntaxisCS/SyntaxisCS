@@ -5,4 +5,5 @@
 * Ask me about a custom Discord bot for you and your friends!
 * How to reach me: Syntaxis#5260 on Discord
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SyntaxisCS&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SyntaxisCS&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyntaxisCS&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
