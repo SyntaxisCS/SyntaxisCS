@@ -1,6 +1,6 @@
 <h2 align="center"> Hi, I'm Charles Stello <br/> </h2> 
 
-**<p align="center">I'm a 18 year old self taught programmer. I work mainly with Javascript and node but can work with other technologies like HTML and CSS. My current intrests are Web Development with React.js and Express.js</p>**
+**<p align="center">I'm a 19 year old self taught programmer. I work mainly with Javascript and node but can work with other technologies like HTML and CSS. My current intrests are Web Development with React.js and Express.js</p>**
 
 * How to reach me: https://syntaxiscs.com
 
